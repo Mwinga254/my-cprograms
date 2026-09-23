@@ -1,3 +1,7 @@
+//Author:Jesee Mwinga
+//Adm No :BCS-05-0552/2026
+//Description:academic units offered
+	
 #include <stdio.h>
 
 int main()
