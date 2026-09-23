@@ -1,3 +1,7 @@
+//Author:Jesee Mwinga
+//Adm No :BCS-05-0552/2026
+//Description:Prompting theuser
+
 #include <stdio.h>
 
 int main()
