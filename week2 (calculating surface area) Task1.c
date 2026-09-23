@@ -1,3 +1,8 @@
+//Author:Jesee Mwinga
+//Adm No :BCS-05-0552/2026
+//Description:Calculating surface area
+
+
 #include <stdio.h>
 
 int main(int argc, char** argv)
